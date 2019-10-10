@@ -1,0 +1,15 @@
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\bin\Debug\TicTacTueAi.exe.config
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\bin\Debug\TicTacTueAi.exe
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\bin\Debug\TicTacTueAi.pdb
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\TicTacTueAi.csprojAssemblyReference.cache
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\MainWindow.g.cs
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\App.g.cs
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\TicTacTueAi_MarkupCompile.cache
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\TicTacTueAi_MarkupCompile.lref
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\MainWindow.baml
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\TicTacTueAi.g.resources
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\TicTacTueAi.Properties.Resources.resources
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\TicTacTueAi.csproj.GenerateResource.cache
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\TicTacTueAi.csproj.CoreCompileInputs.cache
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\TicTacTueAi.exe
+D:\Staff\יהלום\Intervals\TicTacTueAi\TicTacTueAi\obj\Debug\TicTacTueAi.pdb
